@@ -15,7 +15,7 @@ export let sampleData: Object[] = [
     subtasks: [
       {
         taskID: 2,
-        taskName: "Plan timeline",
+        taskName: "Plán timeline",
         startDate: new Date("02/03/2017"),
         endDate: new Date("02/07/2017"),
         duration: 5,
