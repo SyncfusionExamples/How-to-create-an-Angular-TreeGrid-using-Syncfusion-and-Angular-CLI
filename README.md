@@ -19,7 +19,7 @@ To run this application, you need to first clone the `How-to-create-an-Angular-T
 To do so, open the command prompt and run the below commands one after the other.
 
 ```
-git clone https://github.com/SyncfusionSamples/How-to-create-an-Angular-TreeGrid-using-Syncfusion-and-Angular-CLI treegrid-example
+git clone https://github.com/SyncfusionExamples/How-to-create-an-Angular-TreeGrid-using-Syncfusion-and-Angular-CLI treegrid-example
 cd treegrid-example
 ```
 
